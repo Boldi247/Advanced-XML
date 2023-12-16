@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weapons>
+    <weapon>
+        <name>Colt Detective Special</name>
+        <nameLength>22</nameLength>
+    </weapon>
+    <weapon>
+        <name>Covariant phaser pulse</name>
+        <nameLength>22</nameLength>
+    </weapon>
+</weapons>

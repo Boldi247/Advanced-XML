@@ -1,0 +1,13 @@
+[
+    { "usAirDate":"1968-01-12", "id":"EPMA0000000461", "episodeTitle":"A Piece of the Action" },
+    { "usAirDate":"1968-02-02", "id":"EPMA0000000457", "episodeTitle":"A Private Little War" },
+    { "usAirDate":"1969-03-14", "id":"EPMA0000000493", "episodeTitle":"All Our Yesterdays" },
+    {
+        "usAirDate": "1968-10-11",
+        "id": "EPMA0000000472",
+        "episodeTitle": "And the Children Shall Lead"
+    },
+    { "usAirDate":"1968-03-29", "id":"EPMA0000074816", "episodeTitle":"Assignment: Earth" },
+    { "usAirDate":"1968-03-15", "id":"EPMA0000000455", "episodeTitle":"Bread and Circuses" },
+    { "usAirDate":"1968-02-23", "id":"EPMA0000000462", "episodeTitle":"By Any Other Name" }
+]
