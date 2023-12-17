@@ -1,6 +1,6 @@
 (:
 Ebben a feladatban azt vizsgálom, hogy mely fegyver (vagy fegyverek) neve a leghosszabb.
-Egy egyszerű string tömb szekvencia az output.
+Egy XML dokumentum az output.
 :)
 
 xquery version "3.1";
